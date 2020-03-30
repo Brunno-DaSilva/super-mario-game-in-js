@@ -1,0 +1,7 @@
+*,
+*::before, 
+*::after{
+
+    background: #c5c5e9;
+    box-sizing: border-box
+}
